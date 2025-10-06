@@ -14,7 +14,7 @@ import generate_io as gio
 
 
 # ---------- Page config ----------
-st.set_page_config(page_title="Brief → Insertion Order", page_icon="🧾", layout="centered")
+st.set_page_config(page_title="Brief → Insertion Order", page_icon="⭐", layout="centered")
 st.title("BJ's IO Maker")
 
 # Subtle button styling (roomier, rounded)
